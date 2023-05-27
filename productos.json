@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "serie_producto": "GTR001",
+      "marca": "Gibson",
+      "codigo": "GTR001",
+      "nombre": "Guitarra eléctrica Les Paul",
+      "precio": 2000000
+    },
+    {
+      "id": 2,
+      "serie_producto": "BS001",
+      "marca": "Fender",
+      "codigo": "BS001",
+      "nombre": "Bajo eléctrico Precision",
+      "precio": 1500000
+    },
+    {
+      "id": 3,
+      "serie_producto": "DRM001",
+      "marca": "Roland",
+      "codigo": "DRM001",
+      "nombre": "Batería electrónica V-Drums",
+      "precio": 3000000
+    },
+    {
+      "id": 4,
+      "serie_producto": "KEY001",
+      "marca": "Yamaha",
+      "codigo": "KEY001",
+      "nombre": "Teclado digital PSR-E363",
+      "precio": 500000
+    },
+    {
+      "id": 5,
+      "serie_producto": "AMP001",
+      "marca": "Marshall",
+      "codigo": "AMP001",
+      "nombre": "Amplificador de guitarra DSL40C",
+      "precio": 2500000
+    },
+    {
+      "id": 6,
+      "serie_producto": "DRM002",
+      "marca": "Pearl",
+      "codigo": "DRM002",
+      "nombre": "Batería acústica Export Series",
+      "precio": 4000000
+    },
+    {
+      "id": 7,
+      "serie_producto": "KEY002",
+      "marca": "Korg",
+      "codigo": "KEY002",
+      "nombre": "Sintetizador Prologue",
+      "precio": 3500000
+    },
+    {
+      "id": 8,
+      "serie_producto": "GTR002",
+      "marca": "PRS",
+      "codigo": "GTR002",
+      "nombre": "Guitarra eléctrica Custom 24",
+      "precio": 3000000
+    },
+    {
+      "id": 9,
+      "serie_producto": "MIC001",
+      "marca": "Shure",
+      "codigo": "MIC001",
+      "nombre": "Micrófono dinámico SM58",
+      "precio": 300000
+    },
+    {
+      "id": 10,
+      "serie_producto": "PED001",
+      "marca": "Boss",
+      "codigo": "PED001",
+      "nombre": "Pedal de efectos para guitarra DS-1",
+      "precio": 200000
+    },
+    {
+      "id": 11,
+      "serie_producto": "REC001",
+      "marca": "Zoom",
+      "codigo": "REC001",
+      "nombre": "Grabadora de audio portátil H4n Pro",
+      "precio": 1500000
+    },
+    {
+      "id": 12,
+      "serie_producto": "AMP002",
+      "marca": "Fender",
+      "codigo": "AMP002",
+      "nombre": "Amplificador de bajo Rumble 100",
+      "precio": 800000
+    },
+    {
+      "id": 13,
+      "serie_producto": "GTR003",
+      "marca": "Ibanez",
+      "codigo": "GTR003",
+      "nombre": "Guitarra acústica V50NJP",
+      "precio": 500000
+    },
+    {
+      "id": 14,
+      "serie_producto": "PED002",
+      "marca": "Electro-Harmonix",
+      "codigo": "PED002",
+      "nombre": "Pedal de efectos para bajo Bass Big Muff",
+      "precio": 150000
+    },
+    {
+      "id": 15,
+      "serie_producto": "DRM003",
+      "marca": "Tama",
+      "codigo": "DRM003",
+      "nombre": "Batería acústica Imperialstar",
+      "precio": 4500000
+    },
+    {
+      "id": 16,
+      "serie_producto": "KEY003",
+      "marca": "Casio",
+      "codigo": "KEY003",
+      "nombre": "Teclado de escenario Privia PX-5S",
+      "precio": 2000000
+    },
+    {
+      "id": 17,
+      "serie_producto": "REC002",
+      "marca": "Tascam",
+      "codigo": "REC002",
+      "nombre": "Grabadora de campo DR-40X",
+      "precio": 700000
+    },
+    {
+      "id": 18,
+      "serie_producto": "MIC002",
+      "marca": "Audio-Technica",
+      "codigo": "MIC002",
+      "nombre": "Micrófono condensador AT2020",
+      "precio": 250000
+    },
+    {
+      "id": 19,
+      "serie_producto": "PED003",
+      "marca": "TC Electronic",
+      "codigo": "PED003",
+      "nombre": "Pedal de efectos para guitarra Hall of Fame 2",
+      "precio": 180000
+    },
+    {
+      "id": 20,
+      "serie_producto": "AMP003",
+      "marca": "Orange",
+      "codigo": "AMP003",
+      "nombre": "Amplificador de guitarra Rockerverb 50 MKIII",
+      "precio": 5000000
+    }
+  ]
+  
